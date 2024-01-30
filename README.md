@@ -9,6 +9,7 @@ Configure github oauth2
 	Add callbackURL as:		http://localhost:8080/login/oauth2/code/github
 			
 Run it with spring boot
+
 	http://localhost:8080
 	Authorize service with github
 	 
